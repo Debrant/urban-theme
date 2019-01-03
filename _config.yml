@@ -4,7 +4,7 @@ email: connie@colterstudios.com
 description: > # this means to ignore newlines until "baseurl:"
   A collection of Pacific Nothwest artist Connie Colter's sculptures and ceramics. 
 baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
-url: "http://www.colterstudios.com" # the base hostname & protocol for your site
+url: "https://www.colterstudios.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 

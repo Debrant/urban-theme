@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Sitting (mostly)"
+date:   2018-01-01 15:39:40
+preview: "/assets/img/2018-01-16/1.jpg"
+---
+
+![Picture 1](holder.js/800x600?auto=yes)
+
+Still tying to find an organizational scheme.

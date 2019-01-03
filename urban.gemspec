@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["midzer"]
   spec.email         = [""]
 
-  spec.summary       = %q{A Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.}
+  spec.summary       = %q{A Jekyll port of https://erosie.net/ with some modifications. It is designed for visual artists.}
   spec.homepage      = "https://github.com/midzer/urban-theme"
   spec.license       = "MIT"
 

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Girl 7"
+date:   2018-01-10 15:39:40
+preview: "/assets/img/2018-01-16/1.jpg"
+---
+
+![Picture 1]("/assets/DSC_0109.jpg")
+
+Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.

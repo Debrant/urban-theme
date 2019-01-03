@@ -1,0 +1,19 @@
+{
+    "name": "colter studios - sculpture art",
+    "lang": "en",
+    "short_name": "cc-studios",
+    "description": "A collection . ",
+    "theme_color": "#000",
+    "background_color": "#fdfdfd",
+    "display": "standalone",
+    "start_url": "/",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "assets/favicons/favicon.png",
+            "sizes": "196x196",
+            "type": "image\/png",
+            "density": 4.0
+        }
+    ]
+}
