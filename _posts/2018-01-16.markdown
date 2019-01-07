@@ -2,7 +2,7 @@
 layout: post
 title:  "Busts"
 date:   2018-01-16 15:39:40
-preview: "/assets/img/2018-01-16/1.jpg"
+preview: "/assets/img/2018-01-16/1_tn.jpg"
 ---
 
 ![Picture 1]("assets/img/2018-01-16/1.jpg")

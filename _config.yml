@@ -1,10 +1,20 @@
 # Site settings
 title: Colter Studios
-email: connie@colterstudios.com
-description: > # this means to ignore newlines until "baseurl:"
-  A collection of Pacific Nothwest artist Connie Colter's sculptures and ceramics. 
-baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
+description:  Collections
+
+baseurl: # the subpath of your site, e.g. /blog
+basedir: /
+
+assets:
+  img: assets/img
+  favicon: assets/favicon
+
 url: "https://www.colterstudios.com" # the base hostname & protocol for your site
+
+plugins:
+  - octopress-debugger
+  
+email: connie@colterstudios.com
 twitter_username: jekyllrb
 github_username:  jekyll
 

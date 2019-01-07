@@ -2,9 +2,9 @@
 layout: post
 title:  "Sitting"
 date:   2018-01-15 15:39:40
-preview: "/assets/img/2018-01-16/1.jpg"
+preview: "/assets/img/2018-01-16/1_tn.jpg"
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
+![Picture 1](/assets/img/2018-01-16/1.jpg)
 
 Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.

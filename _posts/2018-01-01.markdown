@@ -2,9 +2,9 @@
 layout: post
 title:  "Sitting (mostly)"
 date:   2018-01-01 15:39:40
-preview: "/assets/img/2018-01-16/1.jpg"
+preview: "/assets/img/2018-01-16/1_tn.jpg"
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
+![Picture 1](/assets/img/2018-01-16/1.jpg)
 
 Still tying to find an organizational scheme.

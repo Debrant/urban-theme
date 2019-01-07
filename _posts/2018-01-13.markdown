@@ -2,7 +2,7 @@
 layout: post
 title:  "Girl 8"
 date:   2018-01-13 15:39:40
-preview: "/assets/img/2018-01-16/1.jpg"
+preview: "/assets/img/2018-01-16/1_tn.jpg"
 ---
 
 ![Picture 1]("/assets/DSC_0109.jpg")
